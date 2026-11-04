@@ -1,136 +1,191 @@
-#   ✦ Ahmad Tibyan Hakim | Personal Portfolio
+ <div align="center">
 
-<p align="center">
+# ✦ Ahmad Tibyan Hakim
+
+### PERSONAL PORTFOLIO
+
+**Building Digital Experiences Beyond Boundaries.**
+
+Full Stack Developer · Data Analyst · Data Science Enthusiast
+
+<p>
   <img src="https://img.shields.io/badge/PORTFOLIO-PREMIUM-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/NEXT.JS-16-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/REACT-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-READY-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-<h3 align="center">
-  Building Digital Experiences Beyond Boundaries.
-</h3>
-
-<p align="center">
-  A modern, interactive, and immersive personal portfolio showcasing my journey in Full Stack Development, Data Analytics, and Data Science.
+<p>
+  <a href="https://github.com/AhmadTibyanHakim77">GitHub Profile</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:ahmadtibyanhakim09@gmail.com">Email Me</a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/AhmadTibyanHakim77">
-    <img src="https://img.shields.io/badge/GitHub-AhmadTibyanHakim77-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="mailto:ahmadtibyanhakim09@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+<p>
+  📍 Yogyakarta, Indonesia
 </p>
+
+</div>
 
 ---
 
-## ◈ About The Project
+## ◈ About This Portfolio
 
-This repository contains my personal portfolio website, designed to present my professional identity, technical capabilities, development journey, and selected projects.
+Welcome to my personal portfolio repository.
 
-The website combines modern web engineering with an immersive visual experience through 3D elements, soft glassmorphism, smooth animations, and interactive storytelling.
+This project represents my professional identity, technical journey, and selected work in software engineering and data science.
 
-Rather than presenting a conventional developer portfolio, this project focuses on creating an engaging digital experience that reflects my approach to technology, creativity, and problem-solving.
+Designed with a modern and immersive visual direction, this portfolio combines interactive 3D elements, soft glassmorphism, cinematic animations, and clean user interfaces.
+
+The goal is to create more than a conventional portfolio. It is a digital experience that showcases my approach to technology, creativity, and problem-solving.
 
 ## ✦ About Me
 
 **Ahmad Tibyan Hakim**
 
-Full Stack Developer · Data Analyst · Data Science Enthusiast
+I am a Full Stack Developer, Data Analyst, and Data Science Enthusiast based in Yogyakarta, Indonesia.
 
-Based in Yogyakarta, Indonesia.
+I am passionate about building modern web applications, developing scalable software solutions, transforming raw data into meaningful insights, and exploring intelligent solutions through Machine Learning.
 
-I am passionate about building scalable web applications, developing modern digital products, transforming raw data into meaningful insights, and exploring intelligent solutions through Machine Learning.
-
-My interests include:
+My areas of interest include:
 
 - Full Stack Web Development
 - Frontend Engineering & UI/UX
 - Backend Development & API Integration
-- Database Architecture
+- Database Design & Architecture
 - Data Analytics & Visualization
 - Machine Learning & Predictive Modeling
+- Artificial Intelligence
 
-## ◈ Design & Experience
+## ⚡ Design & Experience
 
-The portfolio is built around a premium, dark visual identity with an emphasis on interaction and usability.
+The portfolio features a premium dark visual identity with interactive elements and carefully designed user experiences.
 
 | Feature | Description |
 |---|---|
-| 3D Interactive Hero | Immersive visual introduction |
+| Interactive 3D Hero | Immersive introduction with 3D visuals |
 | Soft Glassmorphism | Translucent surfaces and ambient lighting |
-| Smooth Animations | Refined transitions and scroll interactions |
-| Narrative Navigation | Guided journey through portfolio sections |
-| Interactive Projects | Organized project showcase |
+| Smooth Animations | Refined transitions and scroll effects |
+| Narrative Navigation | Guided navigation across portfolio sections |
+| Interactive Projects | Organized project showcases |
 | Bilingual Interface | Indonesian and English support |
-| Responsive Design | Adaptable desktop and mobile layouts |
-| SEO Optimization | Metadata and search engine support |
+| Responsive Layout | Adaptable desktop, tablet, and mobile interfaces |
+| SEO Optimization | Search engine metadata and optimization |
 
-## ⚡ Technology Stack
+## ◈ Technology Stack
 
-### Frontend
+### Frontend Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css" />
 </p>
 
-### Animation & 3D
+### Backend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=threejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php" />
 </p>
 
-GSAP and Framer Motion for animation and interactive experiences.
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### Animation & 3D
+
+- Framer Motion
+- GSAP
+- Three.js
+- React Three Fiber
 
 ### Development Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
 </p>
+
+### Data Science & Analytics
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- XGBoost
+- LightGBM
+- Jupyter Notebook
+- Google Colab
 
 ## ◈ Portfolio Sections
 
-The website features a structured journey through the following sections:
+My portfolio is organized into seven main sections.
 
-1. **Introduction** — Personal identity and professional positioning.
-2. **About Me** — Background, interests, and development philosophy.
-3. **Tech Stack** — Technologies, frameworks, and development tools.
-4. **Featured Projects** — Selected software and data science projects.
-5. **Development Process** — Discover, Research, Design, Develop, Test, and Deploy.
-6. **Expertise** — Core technical capabilities.
-7. **Contact** — Professional communication and collaboration.
+| No. | Section | Description |
+|---|---|---|
+| 01 | Introduction | Personal identity and professional positioning |
+| 02 | About Me | Background, interests, and development philosophy |
+| 03 | Tech Stack | Technologies, frameworks, and development tools |
+| 04 | Featured Projects | Selected software and data science projects |
+| 05 | Development Process | My approach to building digital products |
+| 06 | Expertise | Core technical capabilities |
+| 07 | Contact | Professional communication and collaboration |
 
 ## 🚀 Featured Projects
 
 Here are some selected projects from my development journey.
 
-### Web Development & Software Engineering
+### 01. Web Development & Software Engineering
 
 | Project | Description | Repository |
 |---|---|---|
-| Tunas-Tabung | Student savings management application | [View](https://github.com/AhmadTibyanHakim77/Tunas-Tabung) |
-| Antrein | Web application project | [View](https://github.com/AhmadTibyanHakim77/Antrein) |
-| StudyMate-AI | AI-based study application | [View](https://github.com/AhmadTibyanHakim77/StudyMate-AI) |
-| Careerly AI | AI career platform | [View](https://github.com/AhmadTibyanHakim77/careerly-ai-career-platform) |
-| Tetra Coffee | Coffee shop website | [View](https://github.com/AhmadTibyanHakim77/tetra-coffee) |
-| Bakery | Premium bakery website | [View](https://github.com/AhmadTibyanHakim77/bakery) |
-| Adidas Store | E-commerce website | [View](https://github.com/AhmadTibyanHakim77/adidas-store) |
-| Obat Tani | Agricultural product website | [View](https://github.com/AhmadTibyanHakim77/obat-tani) |
+| Tunas-Tabung | Student savings management application | [View Project](https://github.com/AhmadTibyanHakim77/Tunas-Tabung) |
+| Antrein | Web application project | [View Project](https://github.com/AhmadTibyanHakim77/Antrein) |
+| StudyMate-AI | AI-based study application | [View Project](https://github.com/AhmadTibyanHakim77/StudyMate-AI) |
+| Careerly AI | AI-powered career platform | [View Project](https://github.com/AhmadTibyanHakim77/careerly-ai-career-platform) |
+| Dimas Baby Shop | E-commerce application | [View Project](https://github.com/AhmadTibyanHakim77/projek-dimas-baby-shop) |
+| Obat Tani | Agricultural product website | [View Project](https://github.com/AhmadTibyanHakim77/obat-tani) |
+| Adidas Store | E-commerce website | [View Project](https://github.com/AhmadTibyanHakim77/adidas-store) |
+| Bakery | Premium bakery website | [View Project](https://github.com/AhmadTibyanHakim77/bakery) |
+| Tetra Coffee | Coffee shop website | [View Project](https://github.com/AhmadTibyanHakim77/tetra-coffee) |
 
-### Data Science & Machine Learning
+### 02. Data Science & Machine Learning
 
 | Project | Description | Repository |
 |---|---|---|
-| Adult Income Prediction | Predictive modeling using machine learning | [View](https://github.com/AhmadTibyanHakim77/adult-income-prediction) |
-| Stock Market Analysis | Financial data analysis | [View](https://github.com/AhmadTibyanHakim77/stock-market-analysis) |
-| Gold Price Forecasting | Gold price forecasting project | [View](https://github.com/AhmadTibyanHakim77/gold-price-forecasting) |
+| Adult Income Prediction | Predictive modeling using Machine Learning | [View Project](https://github.com/AhmadTibyanHakim77/adult-income-prediction) |
+| Stock Market Analysis | Financial market data analysis | [View Project](https://github.com/AhmadTibyanHakim77/stock-market-analysis) |
+| Gold Price Forecasting | Gold price forecasting project | [View Project](https://github.com/AhmadTibyanHakim77/gold-price-forecasting) |
 
-For additional projects, visit my [GitHub Repositories](https://github.com/AhmadTibyanHakim77?tab=repositories).
+Explore more projects on my [GitHub Repositories](https://github.com/AhmadTibyanHakim77?tab=repositories).
+
+## ◈ Development Workflow
+
+My development process follows a structured approach:
+
+<div align="center">
+
+| Phase | Process |
+|:---:|---|
+| 01 | Discover |
+| 02 | Research |
+| 03 | Design |
+| 04 | Develop |
+| 05 | Test |
+| 06 | Deploy |
+
+</div>
+
+Each stage focuses on creating functional, maintainable, and user-centered digital solutions.
 
 ## 🛠️ Getting Started
 
 Follow these steps to run the portfolio locally.
 
 ### Prerequisites
+
+Make sure you have installed:
 
 - Node.js
 - npm
@@ -182,7 +237,10 @@ PORTOFOLIA-HXQ/
 │   ├── app/
 │   │   ├── globals.css
 │   │   ├── layout.tsx
-│   │   └── page.tsx
+│   │   ├── page.tsx
+│   │   ├── icon.tsx
+│   │   ├── robots.ts
+│   │   └── sitemap.ts
 │   │
 │   ├── components/
 │   │   ├── AboutSection.tsx
@@ -191,7 +249,8 @@ PORTOFOLIA-HXQ/
 │   │   ├── ProjectsSection.tsx
 │   │   ├── ProcessSection.tsx
 │   │   ├── ExpertiseSection.tsx
-│   │   └── ContactSection.tsx
+│   │   ├── ContactSection.tsx
+│   │   └── Footer.tsx
 │   │
 │   ├── context/
 │   │   └── LanguageContext.tsx
@@ -200,16 +259,24 @@ PORTOFOLIA-HXQ/
 │       └── data.ts
 │
 ├── .gitignore
+├── README.md
 ├── package.json
 ├── package-lock.json
-└── README.md
+├── next.config.mjs
+├── eslint.config.mjs
+├── postcss.config.mjs
+└── tsconfig.json
 ```
 
 ## 🌐 Connect With Me
 
 I am open to collaboration, technical discussions, software development opportunities, and new challenges.
 
-<p align="center">
+<div align="center">
+
+### Let's Build Something Exceptional.
+
+<p>
   <a href="https://github.com/AhmadTibyanHakim77">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -218,16 +285,20 @@ I am open to collaboration, technical discussions, software development opportun
   </a>
 </p>
 
-<p align="center">
-  📍 Yogyakarta, Indonesia
-</p>
+**Ahmad Tibyan Hakim**
+
+Full Stack Developer · Data Analyst · Data Science Enthusiast
+
+Yogyakarta, Indonesia
 
 ---
 
-<p align="center">
+<p>
   <strong>Designed & Developed by Ahmad Tibyan Hakim</strong>
   <br />
-  <sub>Turning ideas into meaningful digital experiences.</sub>
+  <sub>Turning Ideas Into Meaningful Digital Experiences.</sub>
   <br /><br />
   © 2026 Ahmad Tibyan Hakim. All Rights Reserved.
 </p>
+
+</div>
