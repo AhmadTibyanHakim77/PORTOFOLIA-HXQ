@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # ✦ Ahmad Tibyan Hakim
 
@@ -7,6 +7,15 @@
 **Building Digital Experiences Beyond Boundaries.**
 
 Full Stack Developer · Data Analyst · Data Science Enthusiast
+
+<p>
+  <a href="https://portofolia-hxc.vercel.app">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-Visit_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/AhmadTibyanHakim77/PORTOFOLIA-HXQ">
+    <img src="https://img.shields.io/badge/SOURCE_CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/PORTFOLIO-PREMIUM-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -21,9 +30,25 @@ Full Stack Developer · Data Analyst · Data Science Enthusiast
   <a href="mailto:ahmadtibyanhakim09@gmail.com">Email Me</a>
 </p>
 
-<p>
-  📍 Yogyakarta, Indonesia
-</p>
+📍 Yogyakarta, Indonesia
+
+</div>
+
+---
+
+## 🌐 Live Website
+
+Explore my personal portfolio:
+
+<div align="center">
+
+### [portofolia-hxc.vercel.app](https://portofolia-hxc.vercel.app)
+
+Experience my interactive 3D portfolio, explore selected projects, discover my technical expertise, and connect with me.
+
+<a href="https://portofolia-hxc.vercel.app">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </div>
 
@@ -249,8 +274,7 @@ PORTOFOLIA-HXQ/
 │   │   ├── ProjectsSection.tsx
 │   │   ├── ProcessSection.tsx
 │   │   ├── ExpertiseSection.tsx
-│   │   ├── ContactSection.tsx
-│   │   └── Footer.tsx
+│   │   └── ContactSection.tsx
 │   │
 │   ├── context/
 │   │   └── LanguageContext.tsx
