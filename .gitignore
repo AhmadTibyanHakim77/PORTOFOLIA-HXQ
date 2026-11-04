@@ -1,0 +1,22 @@
+node_modules
+.next
+next-env.d.ts
+
+# Dependencies
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# OS and editor
+.DS_Store
+.vscode/
+
+# Build cache
+*.tsbuildinfo

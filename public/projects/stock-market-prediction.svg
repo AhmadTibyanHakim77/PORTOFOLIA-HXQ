@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e1f1c" />
+      <stop offset="100%" stop-color="#080d0c" />
+    </linearGradient>
+    <linearGradient id="emeraldGlow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0.0" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg5)" rx="16"/>
+  <rect x="70" y="60" width="660" height="380" rx="12" fill="#0d1413" stroke="#ffffff" stroke-opacity="0.1" stroke-width="1.5"/>
+  <circle cx="100" cy="85" r="5" fill="#ef4444" opacity="0.7"/>
+  <circle cx="120" cy="85" r="5" fill="#eab308" opacity="0.7"/>
+  <circle cx="140" cy="85" r="5" fill="#22c55e" opacity="0.7"/>
+  <line x1="70" y1="110" x2="730" y2="110" stroke="#ffffff" stroke-opacity="0.08"/>
+  <!-- Candle / Line Chart Mockup -->
+  <rect x="100" y="130" width="600" height="260" rx="8" fill="#111c19" stroke="#10b981" stroke-opacity="0.2"/>
+  <!-- Grid lines -->
+  <line x1="120" y1="180" x2="680" y2="180" stroke="#ffffff" stroke-opacity="0.05" stroke-dasharray="4"/>
+  <line x1="120" y1="240" x2="680" y2="240" stroke="#ffffff" stroke-opacity="0.05" stroke-dasharray="4"/>
+  <line x1="120" y1="300" x2="680" y2="300" stroke="#ffffff" stroke-opacity="0.05" stroke-dasharray="4"/>
+  <!-- Price Area -->
+  <path d="M 130 310 L 190 280 L 250 295 L 310 230 L 370 250 L 430 200 L 490 220 L 550 170 L 610 190 L 670 150 L 670 340 L 130 340 Z" fill="url(#emeraldGlow)" />
+  <path d="M 130 310 L 190 280 L 250 295 L 310 230 L 370 250 L 430 200 L 490 220 L 550 170 L 610 190 L 670 150" fill="none" stroke="#10b981" stroke-width="3" />
+  <!-- Moving average line -->
+  <path d="M 130 320 C 230 300, 350 240, 470 220 C 560 200, 620 180, 670 170" fill="none" stroke="#38bdf8" stroke-width="2" stroke-dasharray="6" opacity="0.8"/>
+  <!-- Metric pills -->
+  <rect x="120" y="145" width="90" height="24" rx="4" fill="#10b981" opacity="0.2"/>
+  <text x="165" y="161" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#10b981" text-anchor="middle">+18.42%</text>
+  <rect x="220" y="145" width="110" height="24" rx="4" fill="#ffffff" opacity="0.08"/>
+  <text x="275" y="161" font-family="system-ui, sans-serif" font-size="11" font-weight="500" fill="#9295a3" text-anchor="middle">LSTM · ARIMA</text>
+  <text x="700" y="460" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#10b981" text-anchor="end" opacity="0.8">STOCK PREDICTION · TIME-SERIES FORECAST</text>
+</svg>
+

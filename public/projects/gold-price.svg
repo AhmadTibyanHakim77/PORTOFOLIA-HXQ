@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg_gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1c1912" />
+      <stop offset="100%" stop-color="#0a0907" />
+    </linearGradient>
+    <linearGradient id="goldGlow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#eab308" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#eab308" stop-opacity="0.0" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg_gold)" rx="16"/>
+  <rect x="70" y="60" width="660" height="380" rx="12" fill="#12100c" stroke="#ffffff" stroke-opacity="0.1" stroke-width="1.5"/>
+  <circle cx="100" cy="85" r="5" fill="#ef4444" opacity="0.7"/>
+  <circle cx="120" cy="85" r="5" fill="#eab308" opacity="0.7"/>
+  <circle cx="140" cy="85" r="5" fill="#22c55e" opacity="0.7"/>
+  <line x1="70" y1="110" x2="730" y2="110" stroke="#ffffff" stroke-opacity="0.08"/>
+  <!-- Gold Chart Header & Stats -->
+  <rect x="100" y="130" width="600" height="260" rx="8" fill="#17140f" stroke="#eab308" stroke-opacity="0.2"/>
+  <text x="125" y="160" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#eab308">GOLD COMMODITY (XAU/USD) FORECASTING</text>
+  <text x="125" y="195" font-family="system-ui, sans-serif" font-size="28" font-weight="800" fill="#f5f5f7">$2,648.50 <tspan font-size="14" font-weight="600" fill="#22c55e">+12.4% Est.</tspan></text>
+  <!-- Chart Grid -->
+  <line x1="125" y1="230" x2="675" y2="230" stroke="#ffffff" stroke-opacity="0.05" stroke-dasharray="4"/>
+  <line x1="125" y1="280" x2="675" y2="280" stroke="#ffffff" stroke-opacity="0.05" stroke-dasharray="4"/>
+  <line x1="125" y1="330" x2="675" y2="330" stroke="#ffffff" stroke-opacity="0.05" stroke-dasharray="4"/>
+  <!-- Historical Gold Curve -->
+  <path d="M 130 310 L 190 290 L 250 305 L 310 260 L 370 275 L 430 220 L 490 235 L 530 200 L 530 350 L 130 350 Z" fill="url(#goldGlow)" />
+  <path d="M 130 310 L 190 290 L 250 305 L 310 260 L 370 275 L 430 220 L 490 235 L 530 200" fill="none" stroke="#eab308" stroke-width="2.5" />
+  <!-- Forecast Projection Path (Dotted) -->
+  <path d="M 530 200 C 570 175, 620 180, 670 155" fill="none" stroke="#60a5fa" stroke-width="2.5" stroke-dasharray="6"/>
+  <!-- Forecast marker -->
+  <circle cx="670" cy="155" r="4" fill="#60a5fa"/>
+  <rect x="580" y="130" width="105" height="24" rx="4" fill="#60a5fa" opacity="0.2"/>
+  <text x="632" y="146" font-family="system-ui, sans-serif" font-size="10" font-weight="600" fill="#60a5fa" text-anchor="middle">Projected Horizon</text>
+  <text x="700" y="460" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#eab308" text-anchor="end" opacity="0.8">GOLD PRICE FORECASTING · TIME SERIES</text>
+</svg>
+

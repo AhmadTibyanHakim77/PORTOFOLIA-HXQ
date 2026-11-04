@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg_obat" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#122019" />
+      <stop offset="100%" stop-color="#070d0a" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg_obat)" rx="16"/>
+  <rect x="70" y="60" width="660" height="380" rx="12" fill="#0d1712" stroke="#ffffff" stroke-opacity="0.1" stroke-width="1.5"/>
+  <circle cx="100" cy="85" r="5" fill="#ef4444" opacity="0.7"/>
+  <circle cx="120" cy="85" r="5" fill="#eab308" opacity="0.7"/>
+  <circle cx="140" cy="85" r="5" fill="#22c55e" opacity="0.7"/>
+  <line x1="70" y1="110" x2="730" y2="110" stroke="#ffffff" stroke-opacity="0.08"/>
+  <!-- Agricultural product cards -->
+  <rect x="100" y="135" width="280" height="150" rx="10" fill="#14241c" stroke="#10b981" stroke-opacity="0.3"/>
+  <text x="125" y="165" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#10b981">KATALOG NUTRISI TANAMAN</text>
+  <text x="125" y="200" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#f5f5f7">Pupuk Hayati Cair Organik</text>
+  <text x="125" y="230" font-family="system-ui, sans-serif" font-size="12" fill="#9295a3">Solusi peningkatan kesuburan tanah &amp; hasil panen padi</text>
+  <rect x="125" y="245" width="80" height="24" rx="4" fill="#10b981" opacity="0.2"/>
+  <text x="165" y="261" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#10b981" text-anchor="middle">Tersedia</text>
+  <!-- Pest Diagnosis and Solutions -->
+  <rect x="400" y="135" width="300" height="260" rx="10" fill="#101c15" stroke="#ffffff" stroke-opacity="0.06"/>
+  <text x="425" y="165" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#f5f5f7">PANDUAN HAMA &amp; PENANGANAN</text>
+  <rect x="425" y="185" width="250" height="55" rx="6" fill="#17291f"/>
+  <text x="445" y="208" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#10b981">Hama Wereng Cokelat</text>
+  <text x="445" y="228" font-family="system-ui, sans-serif" font-size="11" fill="#9295a3">Insektisida sistemik kontak · Dosis 1.5 ml/L</text>
+  <rect x="425" y="250" width="250" height="55" rx="6" fill="#17291f"/>
+  <text x="445" y="273" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#10b981">Penyakit Blas Daun</text>
+  <text x="445" y="293" font-family="system-ui, sans-serif" font-size="11" fill="#9295a3">Fungisida protektif kuratif · Dosis 2.0 ml/L</text>
+  <rect x="425" y="315" width="250" height="55" rx="6" fill="#17291f"/>
+  <text x="445" y="338" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#10b981">Ulat Grayak</text>
+  <text x="445" y="358" font-family="system-ui, sans-serif" font-size="11" fill="#9295a3">Bio-pestisida ramah lingkungan · Dosis 2.5 ml/L</text>
+  <!-- Bottom info bar -->
+  <rect x="100" y="305" width="280" height="90" rx="10" fill="#14241c" stroke="#ffffff" stroke-opacity="0.06"/>
+  <text x="125" y="335" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#f5f5f7">DATABASE PERTANIAN LOKAL</text>
+  <text x="125" y="365" font-family="system-ui, sans-serif" font-size="12" fill="#10b981">150+ Formularium &amp; Rekomendasi Petani</text>
+  <text x="700" y="460" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#10b981" text-anchor="end" opacity="0.8">OBAT TANI · AGRICULTURAL PLATFORM</text>
+</svg>
+
